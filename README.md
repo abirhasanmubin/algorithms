@@ -1,2 +1,4 @@
 # algorithms
-Python interpretation of common algorithms
+Python interpretation of common algorithms. 
+
+
